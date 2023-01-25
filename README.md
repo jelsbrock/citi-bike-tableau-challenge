@@ -1,6 +1,6 @@
 # citi-bike-tableau-challenge
 
-Link to presentation: https://public.tableau.com/app/profile/jack.elsbrock/viz/CitiBikeDashboard_16736571718980/CitiBikePresentationLinks to an external site.
+Link to presentation: https://public.tableau.com/app/profile/jack.elsbrock/viz/CitiBikeDashboard_16736571718980/CitiBikePresentationLinks
 
 Citi Bike Analysis
 Using the data from each month of 2022, these dashboards were created to get a better grasp on the profile of an average user of Citi Bikes and their preferences. First, I created the Rider Type visualizations to compare the amount of member vs casual rides throughout the 2022 calendar year broken down by month. Then I used the same timeframe to create visualizations of the type of bike used by each rider. Finally, I used maps to show where each bike ride was started and ended.
